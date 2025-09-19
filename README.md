@@ -1,6 +1,6 @@
 # Responsive Image Gallery
 
-A clean and responsive gallery web app to showcase beautiful nature photographs.  
+A clean and responsive gallery web app to showcase beautiful photographs.  
 Click an image to view it in a modal with navigation.
 
 ## Features
@@ -13,4 +13,5 @@ Click an image to view it in a modal with navigation.
 ## Tech Stack
 
 HTML, CSS, JavaScript
+
 
